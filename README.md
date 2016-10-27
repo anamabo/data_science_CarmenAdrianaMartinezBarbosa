@@ -1,1 +1,1 @@
-This is the repository for my data science projects. Feel free to have a look at them!
+This is the repository for my course Data Science intesive. Each folder contains the exercises suggested in the curriculum of Spring Board. 
